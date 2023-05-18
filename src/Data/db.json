@@ -1,0 +1,81 @@
+{
+  "product": [
+    {
+      "title": "iPhone 12 Pro",
+      "description": "Napredni pametni telefon s A14 Bionic čipom i Pro kamerama.",
+      "price": "999€",
+      "brand": "Apple",
+      "id": 1
+    },
+    {
+      "title": "Dell XPS 13",
+      "description": " Prijenosni laptop s izuzetno tankim okvirom i visokom rezolucijom zaslona.",
+      "price": "1299€",
+      "brand": "Dell",
+      "id": 2
+    },
+    {
+      "title": "iMac 27",
+      "description": "Snažan stolni računar s Retina zaslonom veličine 27 inča.",
+      "price": "1799€",
+      "brand": "Apple",
+      "id": 3
+    },
+    {
+      "title": "Samsung Galaxy S21",
+      "description": "Napredni Android pametni telefon s izvrsnom kamerom i brzim performansama.",
+      "price": "800€",
+      "brand": "Samsung",
+      "id": 4
+    },
+    {
+      "title": "MacBook Pro 13",
+      "description": "Profesionalni prijenosni računar s Retina zaslonom i dugim vijekom baterije.",
+      "price": "1499€",
+      "brand": "Apple",
+      "id": 5
+    },
+    {
+      "title": "HP Pavilion Gaming Desktop",
+      "description": "Namijenjen za igranje, ovaj stolni računar nudi snažne performanse za igre.",
+      "price": "1000€",
+      "brand": "HP",
+      "id": 6
+    },
+    {
+      "title": "Google Pixel 6",
+      "description": "Pametni telefon s naprednom kamerom i čistom verzijom Androida.",
+      "price": "699€",
+      "brand": "Google",
+      "id": 7
+    },
+    {
+      "title": "Lenovo ThinkPad X1 Carbon",
+      "description": "Prijenosni računar s izuzetno tankim i laganim dizajnom te izdržljivom izradom.",
+      "price": "1499€",
+      "brand": "Lenovo",
+      "id": 8
+    },
+    {
+      "title": "Acer Aspire TC",
+      "description": "Pristupačan stolni računar s dovoljno snage za svakodnevne zadatke.",
+      "price": "499€",
+      "brand": "Acer",
+      "id": 9
+    },
+    {
+      "title": "OnePlus 9 Pro",
+      "description": "Napredni Android pametni telefon s glatkim performansama i brzim punjenjem.",
+      "price": "899€",
+      "brand": "OnePlus",
+      "id": 10
+    },
+    {
+      "title": "iPhone14 pro",
+      "description": "Dobar telefon, veoma brz.",
+      "price": "1250€",
+      "brand": "Apple",
+      "id": 11
+    }
+  ]
+}
