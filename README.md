@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm install -g json-server`
 
-### `json-server --watch src/Data/db.json --port`
+### `json-server --watch src/Data/db.json --port 8000`
 
 ### `npm start`
 
